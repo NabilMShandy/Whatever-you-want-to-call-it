@@ -1,5 +1,5 @@
-# Selamat datang di arsip saya
+# Welcome to my archieve
 
-## Kode yang saya tulis dan sempat didokumentasikan dengan berbagai bahasa pemrograman. 🧑‍💻
+## Code that i write and was properly documented. 🧑‍💻
 	
-Untuk sekarang kebanyakan masih banyak C++. Bahasa lain akan ditambahkan seiring bertambahnya waktu. ✨✨
+For now, C++ is the major, other programming languages will be documented soon. ✨✨
