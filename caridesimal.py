@@ -8,7 +8,6 @@ for i in range(batas):
     # Terima input
     inputnum = input(f"Masukkan angka ke-{i+1}: ")
     
-    simpaninput = []
     # Menggunakan try except untuk mengatasi error ketika program berjalan secara real time
     try:
         ubahnilai = int(inputnum)
@@ -23,4 +22,5 @@ for i in range(batas):
         # Jika masih error, biarkan tetap dalam tipe data string yang artinya bukan desimal (float)
         except ValueError:
             ubahnilai = inputnum
+
             print("Bukan desimal")
