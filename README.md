@@ -10,7 +10,7 @@
 
 <br>
 
-For now, **C++** is the major, other programming languages will be documented soon. ✨✨
+Stil need **a lot of experience and code efficiency**. ✨✨
 
 <br>
 
